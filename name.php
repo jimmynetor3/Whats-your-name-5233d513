@@ -7,6 +7,6 @@ $antwoord2 = readline("wat is je achternaam" . PHP_EOL);
 
 echo $antwoord2;
 
-readline("jouw naam is" . $antwoord1 . $antwoord2 . PHP_EOL);
+print ("jouw naam is" . $antwoord1 . $antwoord2 . PHP_EOL);
 
  ?>
